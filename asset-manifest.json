@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/astrazeneca-fullstack/toy-robot-simulator/static/css/main.4a0bc297.css",
-    "main.js": "/astrazeneca-fullstack/toy-robot-simulator/static/js/main.ac3a2341.js",
-    "static/js/453.2854fa84.chunk.js": "/astrazeneca-fullstack/toy-robot-simulator/static/js/453.2854fa84.chunk.js",
-    "index.html": "/astrazeneca-fullstack/toy-robot-simulator/index.html",
-    "main.4a0bc297.css.map": "/astrazeneca-fullstack/toy-robot-simulator/static/css/main.4a0bc297.css.map",
-    "main.ac3a2341.js.map": "/astrazeneca-fullstack/toy-robot-simulator/static/js/main.ac3a2341.js.map",
-    "453.2854fa84.chunk.js.map": "/astrazeneca-fullstack/toy-robot-simulator/static/js/453.2854fa84.chunk.js.map"
+    "main.css": "/astrazeneca-fullstack/static/css/main.4a0bc297.css",
+    "main.js": "/astrazeneca-fullstack/static/js/main.6ff92a7b.js",
+    "static/js/453.2854fa84.chunk.js": "/astrazeneca-fullstack/static/js/453.2854fa84.chunk.js",
+    "index.html": "/astrazeneca-fullstack/index.html",
+    "main.4a0bc297.css.map": "/astrazeneca-fullstack/static/css/main.4a0bc297.css.map",
+    "main.6ff92a7b.js.map": "/astrazeneca-fullstack/static/js/main.6ff92a7b.js.map",
+    "453.2854fa84.chunk.js.map": "/astrazeneca-fullstack/static/js/453.2854fa84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0bc297.css",
-    "static/js/main.ac3a2341.js"
+    "static/js/main.6ff92a7b.js"
   ]
 }
