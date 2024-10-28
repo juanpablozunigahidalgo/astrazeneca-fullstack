@@ -1,7 +1,7 @@
 #Toy Robot Simulator
 
 We use this test as an indication of the kind of code that a candidate would write on
-a day-to-day basis, so please take your time and submit representative code. 
+a day-to-day basis, so please take your time and submit representative code.
 Using React/JavaScript, we would like you to build a simple application to solve the
 challenge below. This should be considered production code, so consider how you
 would structure your application and anything else that would be important as part of
